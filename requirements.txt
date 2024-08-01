@@ -1,0 +1,3 @@
+keras-nlp keras-core tensorflow-text --no-deps
+nltk
+bertviz
